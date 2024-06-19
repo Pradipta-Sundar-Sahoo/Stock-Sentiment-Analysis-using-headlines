@@ -1,0 +1,12 @@
+yfinance
+nltk
+tqdm
+bs4
+matplotlib
+plotly
+gensim
+ipywidgets
+transformers
+scipy
+numpy==1.14.5
+spacy
